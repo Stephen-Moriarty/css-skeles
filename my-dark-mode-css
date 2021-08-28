@@ -1,0 +1,48 @@
+body {
+  background: black;
+  text-align: center;
+}
+p {
+  color: white;
+}
+h1 {
+  color: aqua;
+  font-weight: bold;
+}
+h2 {
+  color: aqua;
+  font-weight: bold;
+}
+h3 {
+  color: aqua;
+  font-weight: bold;
+}
+h4 {
+  color: aqua;
+  font-weight: bold;
+}
+h5 {
+  color: aqua;
+  font-weight: bold;
+}
+h6 {
+  color: aqua; 
+  font-weight: bold;
+}
+a:link {
+  color: aliceblue;
+}
+a:visited {
+  color: dimgrey;
+}
+a:hover {
+  color: mediumaquamarine;
+  text-decoration: underline;
+  text-decoration-color: aqua;
+
+}
+a:active {
+  color: white;
+  text-decoration: underline;
+  text-decoration-color: blue;
+}
