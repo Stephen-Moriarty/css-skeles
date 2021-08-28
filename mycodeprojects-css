@@ -1,0 +1,37 @@
+/* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
+   HTML content. To learn how to do something, just try asking a search engine for questions like
+   "how to change link color." */
+
+body {
+  background-color: rgb(0,0,0);
+  color: white;
+  font-family: Verdana;
+}
+
+.red {
+  color: red;
+}
+
+header {
+  color: black;
+  background-color: rgb(0,225,225);
+}
+
+main {
+  color: black;
+  background-color: red;
+}
+
+div {
+  color: black;
+  background-color: grey;
+}
+
+article {
+  color: black;
+  background-color: red;
+}
+footer {
+  color: black;
+  background-color: rgb(0,225,225);
+}
